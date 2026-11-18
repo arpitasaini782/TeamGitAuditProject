@@ -9,3 +9,4 @@ This project demonstrates shared work using Git branches and commits.
 - Calculates total marks
 - Calculates percentage
 - Assigns grades
+- Organizes project information for readers
