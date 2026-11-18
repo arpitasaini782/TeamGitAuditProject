@@ -8,3 +8,4 @@ A Python-based program to calculate students' total marks, percentage and grades
 - Calculates total marks
 - Calculates percentage
 - Assigns grades
+- Organizes project information for readers
